@@ -8,6 +8,19 @@
     <artifactId>learn-design-patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <profiles>
+        <profile>
+            <id>win</id>
+            <build>
+                <testResources>
+                    <testResource>
+                        <directory>/src/main/resources</directory>
+                    </testResource>
+                </testResources>
+            </build>
+        </profile>
+    </profiles>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
