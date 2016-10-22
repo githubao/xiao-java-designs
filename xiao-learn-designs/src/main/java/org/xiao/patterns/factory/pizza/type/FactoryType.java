@@ -1,7 +1,7 @@
 package org.xiao.patterns.factory.pizza.type;
 
 /**
- * TODO description
+ * 具体类型的工厂类型
  *
  * @author BaoQiang
  * @version 2.0

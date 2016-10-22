@@ -4,15 +4,17 @@ head first design patterns
 ### design patterns 
 1, 策略模式 - Strategy Pattern
 2, 观察者模式 - Observer Pattern
-3, 适配器/装饰器模式 - Adapter Pattern
+3, 装饰器模式 - Decorator Pattern
 4, 抽象工厂模式 - Abstract Factory Pattern
-5, 
+5, 工厂方法模式 - Factory Method Pattern
+6, 单例模式 - Singleton Pattern
+7， 
 
 FACTORY
 2、BUILDER
-3、FACTORY METHOD
+FACTORY METHOD
 4、PROTOTYPE
-5、SINGLETON
+SINGLETON
 6、ADAPTER
 7、BRIDGE
 8、COMPOSITE

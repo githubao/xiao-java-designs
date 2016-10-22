@@ -1,7 +1,7 @@
 package org.xiao.patterns.factory.pizza.pizza;
 
 /**
- * TODO description
+ * 奶酪披萨
  *
  * @author BaoQiang
  * @version 2.0
