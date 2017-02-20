@@ -1,4 +1,4 @@
-package org.xiao.patterns.strategy.fight;
+package org.xiao.patterns.strategy;
 
 /**
  * 斧头

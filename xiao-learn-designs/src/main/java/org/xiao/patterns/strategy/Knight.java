@@ -1,4 +1,4 @@
-package org.xiao.patterns.strategy.fight;
+package org.xiao.patterns.strategy;
 
 /**
  * 骑士
@@ -7,7 +7,7 @@ package org.xiao.patterns.strategy.fight;
  * @version 2.0
  * @Create at 2016/10/13 21:02
  */
-public class Knight extends Character{
+public class Knight extends Character {
     public Knight() {
     }
 

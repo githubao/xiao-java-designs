@@ -8,29 +8,23 @@ head first design patterns
 4, 抽象工厂模式 - Abstract Factory Pattern
 5, 工厂方法模式 - Factory Method Pattern
 6, 单例模式 - Singleton Pattern
-7， 
+7，命令模式 - Command Pattern
+8，外观模式 - Facade Pattern
+9, 适配器模式 - Adapter Pattern
+10,
 
-FACTORY
 2、BUILDER
-FACTORY METHOD
 4、PROTOTYPE
-SINGLETON
-6、ADAPTER
 7、BRIDGE
 8、COMPOSITE
-DECORATOR
-10、FACADE
 11、FLYWEIGHT
 12、PROXY
 13、CHAIN OF RESPONSIBLEITY
-14、COMMAND
 15、INTERPRETER
 16、ITERATOR
 17、MEDIATOR
 18、MEMENTO
-OBSERVER
 20、STATE
-STRATEGY
 22、TEMPLATE METHOD
 23、VISITOR
 

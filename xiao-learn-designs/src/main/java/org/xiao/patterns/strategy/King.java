@@ -1,4 +1,4 @@
-package org.xiao.patterns.strategy.fight;
+package org.xiao.patterns.strategy;
 
 /**
  * 国王
