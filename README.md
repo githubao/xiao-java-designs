@@ -2,16 +2,17 @@
 head first design patterns
 
 ### design patterns 
-1, 策略模式 - Strategy Pattern
-2, 观察者模式 - Observer Pattern
-3, 装饰器模式 - Decorator Pattern
-4, 抽象工厂模式 - Abstract Factory Pattern
-5, 工厂方法模式 - Factory Method Pattern
-6, 单例模式 - Singleton Pattern
-7，命令模式 - Command Pattern
-8，外观模式 - Facade Pattern
-9, 适配器模式 - Adapter Pattern
-10,
+1， 策略模式 - Strategy Pattern
+2， 观察者模式 - Observer Pattern
+3， 装饰器模式 - Decorator Pattern
+4， 抽象工厂模式 - Abstract Factory Pattern
+5， 工厂方法模式 - Factory Method Pattern
+6， 单例模式 - Singleton Pattern
+7， 命令模式 - Command Pattern
+8， 外观模式 - Facade Pattern
+9， 适配器模式 - Adapter Pattern
+10，模板方法模式 - Template Method Pattern
+11，适配器模式 - Iterator Pattern 
 
 2、BUILDER
 4、PROTOTYPE
@@ -21,11 +22,9 @@ head first design patterns
 12、PROXY
 13、CHAIN OF RESPONSIBLEITY
 15、INTERPRETER
-16、ITERATOR
 17、MEDIATOR
 18、MEMENTO
 20、STATE
-22、TEMPLATE METHOD
 23、VISITOR
 
 创建型模式用来处理对象的创建过程，主要包含以下5种设计模式：
