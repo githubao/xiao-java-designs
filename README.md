@@ -66,7 +66,7 @@ head first design patterns
 
 14. 代理模式 - Proxy Pattern
 - 模式: 代理模式为另一个对象提供一个替身或占位符以控制对这个对象的访问。
-- 举例: rmi远程调用，
+- 举例: rmi远程调用，动态和静态代理的经典实现
 
 15. 桥接模式 - Bridge Pattern
 16. 生成器(建造者)模式 - Build Pattern
