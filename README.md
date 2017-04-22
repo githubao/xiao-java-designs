@@ -51,23 +51,31 @@ head first design patterns
 - 举例：煮咖啡的步骤，准备，烧水，倒水，加调料。具体实现自己决定。
 - 建议：别主动调用父类，子类只负责写实现，自然会被调用。
 
-11，迭代器模式 - Iterator Pattern 
+11. 迭代器模式 - Iterator Pattern 
+- 模式：迭代器模式提供一种方法顺序访问一个聚合对象中的各个元素，而又不暴露其内部的表示。
+- 举例：不同的聚合对象的一致的访问接口。
+- 建议: 单一责任，一个类应该只有一个引起变化的原因。
+
+12. 组合模式 - Composite Pattern
+- 模式: 组合模式允许你将对象组合成树形结构来表现“整体/部分”层次结构。组合能够让客户以一致的方式处理个别对象以及对象组合。
+- 举例: 文件递归遍历
+
+13. 状态模式 - State Pattern
 
 
+14. 代理模式 - Proxy Pattern
 
 
-2、BUILDER
-4、PROTOTYPE
-7、BRIDGE
-8、COMPOSITE
-11、FLYWEIGHT
-12、PROXY
-13、CHAIN OF RESPONSIBLEITY
-15、INTERPRETER
-17、MEDIATOR
-18、MEMENTO
-20、STATE
-23、VISITOR
+15. 桥接模式 - Bridge Pattern
+16. 生成器(建造者)模式 - Build Pattern
+17. 责任链模式 - Chain of Responsibility Pattern
+18. 蝇量(享元)模式 - Flyweight Pattern
+19. 解释器模式 - Interpreter Pattern
+20. 中介者模式 - Mediator Pattern
+21. 备忘录模式 - Memento Pattern
+22. 原型模式 - Prototype Pattern
+23. 访问者模式 - Visitor Pattern
+
 
 创建型模式用来处理对象的创建过程，主要包含以下5种设计模式：
  工厂方法模式（Factory Method Pattern）
