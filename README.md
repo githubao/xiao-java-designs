@@ -65,7 +65,8 @@ head first design patterns
 - 举例: 自动售卖机，插入硬币，退币，售卖，售罄，对应的状态的每一种行为都需要不同的处理方式。
 
 14. 代理模式 - Proxy Pattern
-
+- 模式: 代理模式为另一个对象提供一个替身或占位符以控制对这个对象的访问。
+- 举例: rmi远程调用，
 
 15. 桥接模式 - Bridge Pattern
 16. 生成器(建造者)模式 - Build Pattern
