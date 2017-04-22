@@ -2,6 +2,8 @@ package org.xiao.patterns.ch11iterator;
 
 import org.junit.Test;
 
+import java.util.Iterator;
+
 
 /**
  * 食物菜单遍历测试
@@ -15,8 +17,15 @@ public class FoodMenuPrinterTest {
 
     @Test
     public void print() {
-        FoodMenuPrinter printer = new FoodMenuPrinter();
-        printer.print();
+        FoodMenu foodMenu = new FoodMenu();
+        foodMenu.addItem("rice");
+        foodMenu.addItem("chicken");
+        foodMenu.addItem("milk");
+
+        Iterator iter = foodMenu.createIterator();
+        while (iter.hasNext()) {
+            System.out.println(iter.next());
+        }
     }
 
 }
